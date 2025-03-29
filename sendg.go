@@ -1,4 +1,4 @@
-package sendgrid
+package sendg
 
 import (
 	"context"
